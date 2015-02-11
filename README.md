@@ -1,1 +1,1 @@
-# modx.evo
+# modx.evo install addons
